@@ -69,7 +69,7 @@ For more detailed technical overviews, see the [`documentation/`](documentation/
 We provide an interactive installer that checks dependencies, builds the compositor, and installs the configurations:
 
 ```bash
-git clone https://github.com/yourusername/lazyswindle.git
+git clone https://github.com/spuntik1205/lazyswindle.git
 cd lazyswindle
 ./install.sh
 ```
