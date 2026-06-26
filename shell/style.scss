@@ -1,0 +1,65 @@
+// TokyoNight palette (LazyVim defaults)
+$bg: #1a1b26;
+$fg: #c0caf5;
+$black: #15161e;
+$red: #f7768e;
+$green: #9ece6a;
+$yellow: #e0af68;
+$blue: #7aa2f7;
+$magenta: #bb9af7;
+$cyan: #7dcfff;
+$white: #a9b1d6;
+
+* {
+    all: unset;
+    font-family: "Inter", "Roboto", sans-serif;
+    color: $fg;
+}
+
+window {
+    background-color: transparent;
+}
+
+.logo {
+    color: $blue;
+    font-weight: bold;
+    padding: 0 10px;
+}
+
+.settings-window {
+    background-color: rgba($bg, 0.95);
+    border: 2px solid $blue;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 15px rgba($black, 0.8);
+}
+
+.settings-header {
+    font-size: 24px;
+    font-weight: bold;
+    color: $magenta;
+    margin-bottom: 20px;
+}
+
+.ascii-art {
+    background-color: $black;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+    label {
+        font-family: "JetBrainsMono Nerd Font", monospace;
+        color: $green;
+    }
+}
+
+button {
+    background-color: $blue;
+    color: $bg;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+    transition: all 0.2s;
+    &:hover {
+        background-color: lighten($blue, 10%);
+    }
+}

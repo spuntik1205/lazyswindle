@@ -1,0 +1,13 @@
+{
+  "name": "lazyswindle-shell",
+  "version": "1.0.0",
+  "description": "AGS based shell for lazyswindle",
+  "main": "main.ts",
+  "type": "module",
+  "dependencies": {
+    "ags": "^1.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

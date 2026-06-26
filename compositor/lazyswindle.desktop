@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=LazySwindle
+Comment=A cohesive, stunning Wayland ecosystem
+Exec=swindle
+Type=Application
+DesktopNames=LazySwindle
