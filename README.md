@@ -12,15 +12,15 @@ LazySwindle is a comprehensive Wayland desktop ecosystem, evolving from a fork o
 
 *(Replace these placeholders with your actual screenshots)*
 
-| Desktop Overview | Main Menu & Quick Toggles |
-| :---: | :---: |
-| `![Desktop Overview](link-to-image1)` | `![Main Menu](link-to-image2)` |
+| Main Menu & Quick Toggles |
+| :---: |
+| `![Main Menu](link-to-image2)` |
 
 | Settings Panel | Logout UI |
 | :---: | :---: |
 | `![Settings](link-to-image3)` | `![Logout Overlay](link-to-image4)` |
 
-## ✨ Features
+## Features
 
 -  **Dynamic AGS Shell:** A sleek, fully integrated shell written in TypeScript (powered by Aylur's Gtk Shell). Features a stunning top bar, dynamic system info, a highly customizable settings panel, and a built-in Application Launcher.
 -  **Unified Main Menu:** A centralized hub combining your user profile, media player, and highly responsive Quick Toggles for Wi-Fi and Bluetooth.
@@ -31,7 +31,7 @@ LazySwindle is a comprehensive Wayland desktop ecosystem, evolving from a fork o
 -  **Live Config Reloads:** The compositor watches for changes to its Lua configuration (`config.lua`) and applies layout and appearance updates instantly.
 -  **Nix Flake Support:** Reproducible builds and setups out of the box using `flake.nix`.
 
-## ⌨️ Default Keybindings
+## Default Keybindings
 
 LazySwindle comes with a heavily optimized set of default keybindings utilizing the `Logo` (Super) key:
 
