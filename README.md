@@ -14,11 +14,11 @@ LazySwindle is a comprehensive Wayland desktop ecosystem, evolving from a fork o
 
 | Main Menu & Quick Toggles |
 | :---: |
-| `![Main Menu](link-to-image2)` |
+| `![Main Menu](https://github.com/spuntik1205/lazyswindle/main-menu.png)` |
 
 | Settings Panel | Logout UI |
 | :---: | :---: |
-| `![Settings](link-to-image3)` | `![Logout Overlay](link-to-image4)` |
+| `![Settings](https://github.com/spuntik1205/lazyswindle/settings.png)` | `![Logout Overlay](https://github.com/spuntik1205/lazyswindle/logout-ui.png)` |
 
 ## Features
 
